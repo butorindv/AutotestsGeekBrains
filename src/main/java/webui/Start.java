@@ -1,4 +1,5 @@
-package ru.geekbrains.webui;
+package webui;
+
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
